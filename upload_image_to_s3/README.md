@@ -19,6 +19,7 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
 
 ### Upload image to S3
 - visit localhost:4000/upload to upload image
+- click on generated links to view image in new tab
 - .env.example is provided for reference
 - for this repo, you need to create your own postgres database locally
 - run `source .env` to set environment variables
